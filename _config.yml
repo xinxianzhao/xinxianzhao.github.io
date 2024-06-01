@@ -35,8 +35,8 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3149-992X"
-  semantic         : # URL
-  researchgate     : # URL
+  semantic         : "https://www.semanticscholar.org/author/Xinxian-Zhao/2151352179"
+  researchgate     : "https://www.researchgate.net/profile/Xinxian-Zhao"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "xinxian_zhao"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
