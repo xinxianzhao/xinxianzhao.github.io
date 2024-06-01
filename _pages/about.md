@@ -17,4 +17,4 @@ My research centres on the production and perception of speech prosody across ad
 
 Job seeking
 ======
-I am actively seeking a postdoctoral position in areas related to speech disorders. Please feel free to contact me via [email](2110147@tongji.edu.cn) if you have any relevant opportunities or would like to discuss potential collaborations:) 
+I am actively seeking a postdoctoral position in areas related to speech disorders, starting in 2025. Please feel free to contact me via [email](mailto:2110147@tongji.edu.cn) if you have any relevant opportunities or would like to discuss potential collaborations :) 
