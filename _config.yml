@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile2.png"
   name             : "赵信娴"
-  pronouns         : "she/her"  
+  pronouns         : "/ɕin ɕiæn/"  
   bio              : "PhD Candidate"
-  location         : "China"
-  employer         : "Tongji University"
+  location         : #"China"
+  employer         : #"Tongji University"
   uri              : # URL
   email            : "2110147@tongji.edu.cn" 
 
