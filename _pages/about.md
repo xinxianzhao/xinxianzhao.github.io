@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there!
+Hi, there! I am currently a fourth-year PhD candidate at Tongji University, specializing in Psycholinguistics. My research centres on the production and perception of focus prosody across adulthood, which has allowed me to explore the underlying mechanisms of speech disorders among aging populations. I am very keen to utilize interdisciplinary methodologies, including linguistic, acoustic, and psychological measurements, to address this issue.
 
 A data-driven personal website
 ======
