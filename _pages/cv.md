@@ -62,5 +62,5 @@ Skills
   * Eyelink 1000 Plus, Neuroscan ERP
 * Statistical software
   * R, SPSS, MS Office
-* Language
+* Languages
   * Mandarin (native), English, Japanese
