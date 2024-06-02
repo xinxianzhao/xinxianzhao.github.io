@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile3.png"
   name             : "赵信娴"
   pronouns         : "/ɕin ɕiæn/"  
   bio              : "PhD Candidate"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3149-992X"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-3149-992X"
   semantic         : "https://www.semanticscholar.org/author/Xinxian-Zhao/2151352179"
   researchgate     : "https://www.researchgate.net/profile/Xinxian-Zhao"
 
