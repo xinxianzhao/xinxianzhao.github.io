@@ -31,7 +31,7 @@ Presentations
   
 Experience
 ======
-* The International Exchange Program for Graduate Students, Tongji University (No. 2023020025), 2024 (6 months)
+* The International Exchange Program for Graduate Students, Tongji University (2023020025), 2024 (6 months)
   * Conducted eye-tracking experiments on prediction in language comprehension at the National University of Singapore.
   * Supervisor: Prof. Aine Ito
     
