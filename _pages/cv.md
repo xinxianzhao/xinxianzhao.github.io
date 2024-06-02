@@ -31,6 +31,10 @@ Presentations
   
 Experience
 ======
+* The International Exchange Program for Graduate Students, Tongji University (No. 2023020025), 2024 (6 months)
+  * Conducted eye-tracking experiments on prediction in language comprehension at the National University of Singapore.
+  * Supervisor: Prof. Aine Ito
+    
 * National Social Science Foundation of China (17BYY165), 2021-2022
   * Designed and conducted behavioral experiments on prosody production and perception among over 200 participants.
   * Supervisor: Prof. Xiaohu Yang
