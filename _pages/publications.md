@@ -9,8 +9,7 @@ author_profile: true
 
 Journal articles
 ======
-* **Zhao, X.**, Li, Y., & Yang, X. (under review). Aging effect on the understanding of Mandarin focus sentences in noise. *Journal of Communication Disorder*.
-* **Zhao, X.**, Ito, A., & Yang, X. (under review). Contributions of speech-specific and domain-general cognitive abilities in understanding focus prosody in Jianghuai Mandarin: Effects of age. *Journal of Psycholinguistic Research*.
+Ji, J., **Zhao, X.**, Li, Y., & Yang, X. (2024). Age effects on prosodic boundary perception. *Psychology and Aging, 39*(3), 262-274. [https://doi.org/10.1037/pag0000811](https://doi.org/10.1037/pag0000811)
 * **Zhao, X.**, & Yang, X. (2024). Aging affects auditory contributions to focus perception in Jianghuai Mandarin. *The Journal of the Acoustical Society of America, 155*(4), 2990–3004. [https://doi.org/10.1121/10.0025928](https://doi.org/10.1121/10.0025928)
 * **Zhao, X.**, & Yang, X. (2022). Prosody perception in older adults (in Chinese). *Advances in Psychological Science, 30*(3), 613–621. [https://doi.org/10.3724/sp.j.1042.2022.00613](https://doi.org/10.3724/sp.j.1042.2022.00613)
 
