@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi, there! I am currently a fourth-year PhD candidate at [Tongji University](https://www.tongji.edu.cn). I am very fortunate to be advised by [Prof. Xiaohu Yang](https://sfl.tongji.edu.cn/14/7e/c11234a136318/page.htm) and to collaborate with researchers from [The Center for Speech and Language Processing](https://sfl.tongji.edu.cn/yywyyjgyjzx/list.htm) on speech disorders.
+Hi, there! I am currently a fourth-year PhD candidate at [Tongji University](https://www.tongji.edu.cn). I am very fortunate to be advised by [Prof. Xiaohu Yang](https://sfl.tongji.edu.cn/14/7e/c11234a136318/page.htm) and to collaborate with researchers from [The Center for Speech and Language Processing](https://cslp.tongji.edu.cn/) on speech disorders.
 
 Research interests
 ======
