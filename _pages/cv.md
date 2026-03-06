@@ -11,7 +11,7 @@ redirect_from:
 
 Academic position
 ======
-* Postdoctoral Researcher, Shanghai Jiao Tong University (PI: Prof. Hui Chang)
+* Postdoctoral Researcher, Shanghai Jiao Tong University, 2025- (PI: Prof. Hui Chang)
 
 Education
 ======
