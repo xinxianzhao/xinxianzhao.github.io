@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Academic position
+Academic Positions
 ======
-* Postdoctoral Researcher, Shanghai Jiao Tong University, 2025- (PI: Prof. Hui Chang)
+* Postdoctoral Researcher, Shanghai Jiao Tong University, 2025-present (PI: Prof. Hui Chang)
 
 Education
 ======
@@ -29,7 +29,7 @@ Publications
 
 * Li, Y., **Zhao, X.**, & Yang, X. (2025). Amateur Choir Experience Modulates the Perception of Mandarin Sounds in Older Adults. *Journal of Speech, Language, and Hearing Research: JSLHR, 68*(10), 4978–4995. [https://doi.org/10.1044/2025_JSLHR-24-00724](https://doi.org/10.1044/2025_JSLHR-24-00724)
 
-* Li, Y., Ji, J., **Zhao, X**., & Yang, X. (2025). Effects of amateur choir experience on forced-attention dichotic listening in older adults. *Psychology of Music, 53*(4), 548-569. [https://doi.org/10.1177/03057356241261371](https://doi.org/10.1177/03057356241261371)
+* Li, Y., Ji, J., **Zhao, X**., & Yang, X. (2025). Effects of amateur choir experience on forced-attention dichotic listening in older adults. *Psychology of Music, 53*(4), 548–569. [https://doi.org/10.1177/03057356241261371](https://doi.org/10.1177/03057356241261371)
 
 * Ji, J., Zhao, X., Li, Y., & Yang, X. (2024). Age effects on prosodic boundary perception. Psychology and aging, 39(3), 262–274. https://doi.org/10.1037/pag0000811
   
