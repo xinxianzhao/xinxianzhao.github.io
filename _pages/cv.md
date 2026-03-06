@@ -9,18 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Academic position
+======
+* Postdoctoral Researcher, Shanghai Jiao Tong University (PI: Prof. Hui Chang)
+
 Education
 ======
-* Ph.D. in Linguistics, Tongji University, 2019-2025 (expected)
-* B.S.  in Psychology (minor), Jiangsu Normal University, 2017-2019
-* B.A.  in English (major), Jiangsu Normal University, 2015-2019
+* PhD in Linguistics, Tongji University, 2019-2025
+* BS  in Psychology (minor), Jiangsu Normal University, 2017-2019
+* BA  in English (major), Jiangsu Normal University, 2015-2019
 
 Publications
 ======
+* **Zhao, X.**, Ito, A., & Yang, X. (2025). Contributions of Language-Specific and Domain-General Cognitive Abilities to the Comprehension of Focus Prosody in Jianghuai Mandarin: Effects of Age. *Journal of Psycholinguistic Research, 54*(6), 57. [https://doi.org/10.1007/s10936-025-10177-x](https://doi.org/10.1007/s10936-025-10177-x)
 * **Zhao, X.**, Li, Y., & Yang, X. (2024). Aging affects Mandarin speakers’ understanding of focus sentences in quiet and noisy environments. *Journal of Communication Disorders, 111*, 106451. [https://doi.org/10.1016/j.jcomdis.2024.106451](https://doi.org/10.1016/j.jcomdis.2024.106451)
 * **Zhao, X.**, & Yang, X. (2024). Aging affects auditory contributions to focus perception in Jianghuai Mandarin. *The Journal of the Acoustical Society of America, 155*(4), 2990–3004. [https://doi.org/10.1121/10.0025928](https://doi.org/10.1121/10.0025928)
 * **Zhao, X.**, & Yang, X. (2022). Prosody perception in older adults (in Chinese). *Advances in Psychological Science, 30*(3), 613–621. [https://doi.org/10.3724/sp.j.1042.2022.00613](https://doi.org/10.3724/sp.j.1042.2022.00613)
 * **Zhao, X.**, & Yang, X. (2022). Aging effect on semantic focus processing: A preliminary study (in Chinese). In L. Huang (Ed.), *New development of Gerontolinguistics in China* (pp. 225–233). Tongji University Press. [https://ageing.tongji.edu.cn/info/1016/1871.htm](https://ageing.tongji.edu.cn/info/1016/1871.htm)
+
+* Li, Y., **Zhao, X.**, & Yang, X. (2025). Amateur Choir Experience Modulates the Perception of Mandarin Sounds in Older Adults. *Journal of Speech, Language, and Hearing Research: JSLHR, 68*(10), 4978–4995. [https://doi.org/10.1044/2025_JSLHR-24-00724](https://doi.org/10.1044/2025_JSLHR-24-00724)
+
+* Li, Y., Ji, J., **Zhao, X**., & Yang, X. (2025). Effects of amateur choir experience on forced-attention dichotic listening in older adults. *Psychology of Music, 53*(4), 548-569. [https://doi.org/10.1177/03057356241261371](https://doi.org/10.1177/03057356241261371)
+
+* Ji, J., Zhao, X., Li, Y., & Yang, X. (2024). Age effects on prosodic boundary perception. Psychology and aging, 39(3), 262–274. https://doi.org/10.1037/pag0000811
   
 Presentations
 ======
